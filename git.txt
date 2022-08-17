@@ -1,0 +1,15 @@
+criando um repositorio git
+
+- criar uma pasta Workspace no C:
+-abrir o bash dentro dela
+-mkdir para criar uma nova pasta com o novo projeto
+-git init para iniciar o Git
+
+-ls -a para ver os arquivos ocultos
+
+git status pra ver o status dos versionamentos
+git add.
+git add -A
+git commit -m ""
+
+git push origin main
